@@ -1,0 +1,15 @@
+﻿<Window x:Class="InventoryManagementSystem.ViewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InventoryManagementSystem"
+        mc:Ignorable="d"
+        Title="ViewWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="datagrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="132,59,132,73" SelectionChanged="DataGrid_SelectionChanged"/>
+        <Label Content="View Entries&#xD;&#xA;" HorizontalAlignment="Center" Margin="0,11,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Button x:Name="btnBack" Content="Back" HorizontalAlignment="Center" Margin="0,366,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Width="60" Height="35" RenderTransformOrigin="0.529,-0.193" Click="btnBack_Click"/>
+
+    </Grid>
+</Window>
