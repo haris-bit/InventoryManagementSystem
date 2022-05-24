@@ -11,7 +11,7 @@
         <Label Content="ID" HorizontalAlignment="Left" Margin="225,164,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
         <TextBox x:Name="search_txt" HorizontalAlignment="Left" Margin="297,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" Height="35" TextAlignment="Justify" TextChanged="search_txt_TextChanged"/>
         <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="275,270,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Height="38" Width="80" Click="btnDelete_Click"/>
-        <Button Content="Back" HorizontalAlignment="Left" Margin="410,270,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Height="38" Width="80"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="410,270,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Height="38" Width="80" Click="Button_Click"/>
 
     </Grid>
 </Window>

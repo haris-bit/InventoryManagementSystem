@@ -46,8 +46,7 @@ namespace InventoryManagementSystem
 
         private void btnBack_Click(object sender, RoutedEventArgs e)
         {
-            var window = new MainWindow();
-            window.ShowDialog();
+            this.Close();
         }
     }
 }
