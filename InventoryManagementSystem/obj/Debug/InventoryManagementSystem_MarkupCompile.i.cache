@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\pc\Downloads\ead_work\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\App.xaml
-52120171479
+61512286188
 21200697616
-10-162501860
+111521592355
 13-38814620
-DeleteWindow.xaml;InsertWindow.xaml;MainWindow.xaml;UpdateWindow.xaml;ViewWindow.xaml;
+DeleteWindow.xaml;InsertWindow.xaml;MainWindow.xaml;UpdateWindow.xaml;ViewWindow.xaml;HomeWindow.xaml;
 
-True
+False
 

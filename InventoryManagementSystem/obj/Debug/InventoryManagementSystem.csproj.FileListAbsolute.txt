@@ -25,3 +25,5 @@ C:\Users\pc\Downloads\ead_work\InventoryManagementSystem\InventoryManagementSyst
 C:\Users\pc\Downloads\ead_work\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\DeleteWindow.baml
 C:\Users\pc\Downloads\ead_work\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InsertWindow.baml
 C:\Users\pc\Downloads\ead_work\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\UpdateWindow.baml
+C:\Users\pc\Downloads\ead_work\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\HomeWindow.g.cs
+C:\Users\pc\Downloads\ead_work\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\HomeWindow.baml
